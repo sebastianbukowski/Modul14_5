@@ -80,4 +80,4 @@ typings/
 .dynamodb/
 
 #directories
-images
+/images/neon-useredition-20190124-0530-amd64.iso.crdownload
